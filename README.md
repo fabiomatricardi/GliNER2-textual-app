@@ -10,6 +10,9 @@ A CLI-based script that uses **GliNER2** (from the `gliner2` library) to extract
 - **Right panel**:
   - Scrollable **Markdown content preview** (as plain text, since Textual doesn’t render rich Markdown — but we can show raw or lightly formatted content)
 
+
+<img src='https://github.com/fabiomatricardi/GliNER2-textual-app/raw/main/GLINER-TEXTUAL.gif' width=1000>
+
 ---
 
 ### 🔍 Key Features
